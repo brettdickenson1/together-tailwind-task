@@ -1,0 +1,6 @@
+.underline {
+  text-decoration: underline;
+  border-bottom: 1px solid #134ae9;
+  padding-bottom: 3px;
+  max-width: fit-content;
+}
